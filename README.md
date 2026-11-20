@@ -1,12 +1,12 @@
-# GameBoost
+# TwixBoost
 
 Otimizador do Windows para jogos. Cada ajuste pede confirmação, guarda o valor original e pode ser desfeito com um clique. Tudo roda no seu PC: nada é enviado para a internet.
 
 ## Baixar
 
-**[Baixar o instalador do GameBoost](https://github.com/divinadigital/gameboost/releases/latest/download/GameBoost-Setup.exe)** (cerca de 31 MB)
+**[Baixar o instalador do TwixBoost](https://github.com/divinadigital/twixboost/releases/latest/download/TwixBoost-Setup.exe)** (cerca de 31 MB)
 
-Funciona no Windows 10 e 11, 64 bits. Notas de cada versão em [Releases](https://github.com/divinadigital/gameboost/releases).
+Funciona no Windows 10 e 11, 64 bits. Notas de cada versão em [Releases](https://github.com/divinadigital/twixboost/releases).
 
 ### Aviso "O Windows protegeu o computador"
 
@@ -15,7 +15,7 @@ O instalador não tem assinatura digital paga, então o Windows pode mostrar ess
 Para conferir se o arquivo é o original, rode no PowerShell, na pasta do download, e compare com o SHA-256 da página da versão:
 
 ```powershell
-Get-FileHash .\GameBoost-Setup.exe
+Get-FileHash .\TwixBoost-Setup.exe
 ```
 
 ## O que ele faz
@@ -39,6 +39,6 @@ Antes da primeira otimização, ele tenta criar um ponto de restauração do Win
 
 ## Desinstalar
 
-Se quiser voltar o Windows ao que era, abra o GameBoost e use **Desfazer tudo** antes. Depois remova em **Configurações > Aplicativos > Aplicativos instalados > GameBoost**.
+Se quiser voltar o Windows ao que era, abra o TwixBoost e use **Desfazer tudo** antes. Depois remova em **Configurações > Aplicativos > Aplicativos instalados > TwixBoost**.
 
-Os valores originais e os logs ficam em `%LOCALAPPDATA%\GameBoost`. Apague essa pasta se não for reinstalar.
+Os valores originais e os logs ficam em `%LOCALAPPDATA%\TwixBoost`. Apague essa pasta se não for reinstalar.
