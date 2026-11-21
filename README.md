@@ -30,7 +30,7 @@ Get-FileHash .\TwixBoost-Setup.exe
 - **Rede**: limite de rede multimídia, CPU reservada ao fundo, limpeza do cache DNS e reset do Winsock.
 - **Sistema**: Modo de Jogo do Windows, agendamento de GPU, inicialização rápida, hibernação, Xbox Game Bar e gravação em segundo plano.
 - **Diagnóstico**: relatório do hardware e das configurações, salvo num arquivo .txt.
-- **Periféricos**: mostra o modelo do mouse, do teclado e do fone e a bateria dos que informam a carga: Logitech (Lightspeed, Unifying e Bolt), Astro A50 de 4ª geração, Redragon Sniper Pro e aparelhos Bluetooth, sem precisar do programa do fabricante aberto. Avisa quando a bateria fica abaixo de 15%.
+- **Periféricos**: mostra o modelo do mouse, do teclado e do fone e a bateria dos que informam a carga: Logitech (Lightspeed, Unifying e Bolt), Astro A50 de 4ª geração, Redragon Sniper Pro e aparelhos Bluetooth, sem precisar do programa do fabricante aberto. Com 20% ou menos, manda uma notificação do Windows perto do relógio pedindo para carregar o aparelho.
 
 ## O que ele nunca faz
 
