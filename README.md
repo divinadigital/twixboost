@@ -28,7 +28,8 @@ Get-FileHash .\TwixBoost-Setup.exe
 - **Energia**: planos Alto desempenho e Ultimate Performance, com volta ao plano que você usava.
 - **Serviços**: desativa serviços de segundo plano da lista, cada um com restauração.
 - **Rede**: limite de rede multimídia, CPU reservada ao fundo, limpeza do cache DNS e reset do Winsock.
-- **Sistema**: Modo de Jogo do Windows, agendamento de GPU, inicialização rápida, hibernação, Xbox Game Bar e gravação em segundo plano.
+- **Sistema**: Modo de Jogo do Windows, agendamento de GPU, inicialização rápida, hibernação, Xbox Game Bar, gravação em segundo plano e **Atualização de jogo sem travar**, que deixa o launcher (Epic Games, Steam e outros) com prioridade baixa no processador e no disco enquanto ele atualiza um jogo, para o PC continuar respondendo.
+- **Telemetria**: processador, memória, espaço livre e atividade do disco (o mesmo "Tempo ativo" do Gerenciador de Tarefas), com aviso quando o disco do sistema está quase cheio ou quando um launcher está ocupando o disco inteiro.
 - **Diagnóstico**: relatório do hardware e das configurações, salvo num arquivo .txt.
 - **Periféricos**: mostra o modelo do mouse, do teclado e do fone e a bateria dos que informam a carga: Logitech (Lightspeed, Unifying e Bolt), Astro A50 de 4ª geração, Redragon Sniper Pro e aparelhos Bluetooth, sem precisar do programa do fabricante aberto. Com 20% ou menos, manda uma notificação do Windows perto do relógio pedindo para carregar o aparelho.
 
